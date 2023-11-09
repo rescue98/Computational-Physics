@@ -1,6 +1,6 @@
 # Projects in Computational Physics
 
-Disclaimer: Author Harvey Wang's repository is cloned to improve knowledge in Computational Physics.
+**Disclaimer: Author Harvey Wang's repository is cloned to improve knowledge in Computational Physics.**
 
 This is project for me to investigate some topics in computational and theoretical physics, including numerical programming and quantum computing.
 
